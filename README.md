@@ -8,7 +8,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Two%20Sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Add%20Two%20Numbers.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Add%20Two%20Numbers.py)|Hard|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
 
 
 
