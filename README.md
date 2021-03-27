@@ -11,3 +11,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Longest%20Palindromic%20Substring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/ZigZag%20Conversion.py)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Reverse%20Integer.py)|Easy|
+
+
+
