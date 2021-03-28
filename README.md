@@ -13,7 +13,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/ZigZag%20Conversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Reverse%20Integer.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/String%20to%20Integer%20(atoi).py)|Medium|
-
-
+|9|[Palindrome Number)](https://leetcode.com/problems/palindrome-number/)| [Python](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Palindrome%20Number.py)|Easy|
 
 
