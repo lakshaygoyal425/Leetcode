@@ -11,7 +11,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Longest%20Palindromic%20Substring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/ZigZag%20Conversion.py)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Reverse%20Integer.py)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/7.%20Reverse%20Integer.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/String%20to%20Integer%20(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/Palindrome%20Number.py)|Easy|
 
