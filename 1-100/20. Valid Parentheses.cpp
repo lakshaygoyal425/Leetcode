@@ -5,7 +5,7 @@ public:
     }
     
     bool isValid(string str) {
-        stack<int> s;
+        stack<char> s;
         
         for(int i=0;i<str.length();i++){
             if(str[i] == '(' || str[i] == '[' || str[i] == '{'){
