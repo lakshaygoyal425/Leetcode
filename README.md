@@ -1,5 +1,5 @@
-# Python solution for Leetcode
-Python solution of problems from [LeetCode](https://leetcode.com/)
+# Solution for Leetcode
+Solutions of problems from [LeetCode](https://leetcode.com/)
 
 
 ##### [Problems 1-100]
