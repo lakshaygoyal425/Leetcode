@@ -12,4 +12,5 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/13.%20Roman%20to%20Integer.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/20.%20Valid%20Parentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/21.%20Merge%20Two%20Sorted%20Lists.cpp)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 
