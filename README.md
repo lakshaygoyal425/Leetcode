@@ -15,4 +15,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/String%20to%20Integer%20(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/9.%20Palindrome%20Number.cpp)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/13.%20Roman%20to%20Integer.java)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/20.%20Valid%20Parentheses.cpp)|Easy|
+
+
 
