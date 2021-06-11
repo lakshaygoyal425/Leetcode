@@ -16,6 +16,7 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/27.%20Remove%20Element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/28.%20Implement%20strStr().cpp)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/53.%20Maximum%20Subarray.cpp)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/66.%20Plus%20One.cpp)|Easy|
 
 
 
