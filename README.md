@@ -7,7 +7,8 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/1.%20Two%20Sum.cpp)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/2.%20Add%20Two%20Numbers.cpp)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/7.%20Reverse%20Integer.cpp)|Easy
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/7.%20Reverse%20Integer.cpp)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/8.%20String%20to%20Integer%20(atoi).cpp)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/9.%20Palindrome%20Number.cpp)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/13.%20Roman%20to%20Integer.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/20.%20Valid%20Parentheses.cpp)|Easy|
@@ -21,5 +22,6 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/70.%20Climbing%20Stairs.cpp)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/88.%20Merge%20Sorted%20Array.cpp)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|Easy|
+
 
 
