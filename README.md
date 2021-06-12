@@ -19,4 +19,5 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/66.%20Plus%20One.cpp)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/69.%20Sqrt(x).cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/70.%20Climbing%20Stairs.cpp)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/88.%20Merge%20Sorted%20Array.cpp)|Easy|
 
