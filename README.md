@@ -20,4 +20,6 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/69.%20Sqrt(x).cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/70.%20Climbing%20Stairs.cpp)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/88.%20Merge%20Sorted%20Array.cpp)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|Easy|
+
 
