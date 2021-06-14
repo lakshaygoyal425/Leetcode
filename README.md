@@ -13,6 +13,7 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/11.%20Container%20With%20Most%20Water.java)|Medium|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/13.%20Roman%20to%20Integer.java)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/20.%20Valid%20Parentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/21.%20Merge%20Two%20Sorted%20Lists.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
