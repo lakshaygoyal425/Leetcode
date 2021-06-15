@@ -16,6 +16,7 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/20.%20Valid%20Parentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/21.%20Merge%20Two%20Sorted%20Lists.cpp)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/22.%20Generate%20Parentheses.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/27.%20Remove%20Element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/28.%20Implement%20strStr().cpp)|Easy|
