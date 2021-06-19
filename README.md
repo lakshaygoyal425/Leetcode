@@ -21,9 +21,6 @@ Solutions of problems from [LeetCode](https://leetcode.com/)
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/27.%20Remove%20Element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/28.%20Implement%20strStr().cpp)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/42.%20Trapping%20Rain%20Water.cpp)|Hard|
-
-
-
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/46.%20Permutations.java)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/48.%20Rotate%20Image.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](https://github.com/lakshaygoyal425/Leetcode/blob/main/1-100/53.%20Maximum%20Subarray.cpp)|Easy|
